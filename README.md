@@ -3,7 +3,6 @@
 
 <br></br>
 <h2>Tecnologías y herramientas que uso:</h2>
-<br></br>
 ### Hi there 👋
 <br></br>
 <p align="left">
