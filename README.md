@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+https://user-images.githubusercontent.com/72414786/190291712-75c25255-cd66-4771-959d-20ec19580c80.gif
 <!--
 **johnfredygithub/johnfredygithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
